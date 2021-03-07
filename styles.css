@@ -39,6 +39,10 @@ img {
   width: 80%;
   background-color: blueviolet;
   display: flex;
+}
+.links ul{
+  width: 100%;
+  display: flex;
   justify-content: space-evenly;
 }
 a {
