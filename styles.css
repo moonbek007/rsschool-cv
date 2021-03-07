@@ -13,8 +13,11 @@ main {
   align-items: center;
   flex-direction: column;
 }
-img {
+figure {
   width: 15%;
+}
+img {
+  width: 100%;
   height: auto;
   border-radius: 25%;
 }
@@ -40,7 +43,7 @@ img {
   background-color: blueviolet;
   display: flex;
 }
-.links ul{
+.links ul {
   width: 100%;
   display: flex;
   justify-content: space-evenly;
@@ -78,7 +81,7 @@ a:hover {
   letter-spacing: 2px;
 }
 #left-vertical-line {
-  width: 70%;
+  width: 100%;
   height: 2px;
   background-color: darkgray;
 }
@@ -111,3 +114,4 @@ footer {
   background-color: cadetblue;
   width: 80%;
 }
+
