@@ -1,2 +1,2 @@
-"# rsschool-cv" 
-"### https://moonbek007.github.io/rsschool-cv/cv" 
+# rsschool-cv 
+### https://moonbek007.github.io/rsschool-cv/ 
